@@ -10,3 +10,6 @@ Desarrollar software es un proceso sistemático, lógico y creativo que busca so
 * Implementación de lenguajes de programación, frameworks y herramientas para desarrollar la solución digital, siguiendo buenas prácticas como el desarrollo limpio y estructurado.
 * Testing y QA, realizar validaciones y pruebas para verificar el funcionamiento, rendimiento, seguridad, accesibilidad y calidad del software.
 * Mantenimiento y evolución del sistema, el software nunca está realmente terminado, se va a ir adaptando a los cambios de la lógica de negocio y agregando nuevas funcionalidades derivadas de nuevos requisitos.
+
+## Fundamentos del desarrollo de software.
+[Tipos de datos](Teoria-conceptos/tipos-datos.md)
